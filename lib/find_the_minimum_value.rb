@@ -1,3 +1,4 @@
 def find_min_value(array)
-  # Add your solution here
+  m = 10**10
+  
 end
